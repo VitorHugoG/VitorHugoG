@@ -1,7 +1,8 @@
 # Olá, Eu sou Vitor !
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorHugoG&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorHugoG&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 <div>
     <a href = "mailto:vitor.gumercindo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
